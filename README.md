@@ -27,7 +27,4 @@ Just a fun mini project where two players can play O vs X in the browser.
 -If all boxes fill up → it’s a draw
 -Click reset to play again
 
-👨‍💻 About
-Rohan
-Just a small practice project while learning JavaScript.
-Nothing fancy, but fun to build 🙂
+
